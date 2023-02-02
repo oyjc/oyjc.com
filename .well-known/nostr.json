@@ -1,8 +1,8 @@
 {
-  "pubkey": "npub18zw2gf3dktsmdx4w9t8rul4r4rlxe6djkf6kzcy3pkkald4vd50sae7s7u",
+  "pubkey": "b0635d6a9851d3aed0cd6c495b282167acf761729078d975fc341b22650b07b9",
   "kind": 0,
   "content": "{\"name\": \"me\", \"nip05\": \"me@oyjc.com\"}",
   "names": {
-    "me": "npub18zw2gf3dktsmdx4w9t8rul4r4rlxe6djkf6kzcy3pkkald4vd50sae7s7u"
+    "me": "b0635d6a9851d3aed0cd6c495b282167acf761729078d975fc341b22650b07b9"
   }
 }
