@@ -1,3 +1,9 @@
+
+{
+  "pubkey": "npub18zw2gf3dktsmdx4w9t8rul4r4rlxe6djkf6kzcy3pkkald4vd50sae7s7u",
+  "kind": 0,
+  "content": "{\"name\": \"me\", \"nip05\": \"me@oyjc.com\"}"
+},
 {
   "names": {
     "me": "npub18zw2gf3dktsmdx4w9t8rul4r4rlxe6djkf6kzcy3pkkald4vd50sae7s7u"
